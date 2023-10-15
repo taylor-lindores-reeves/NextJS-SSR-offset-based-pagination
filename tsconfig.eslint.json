@@ -1,0 +1,4 @@
+{
+	"include": [".eslintrc.json", "**/*"],
+	"exclude": ["node_modules"]
+}
